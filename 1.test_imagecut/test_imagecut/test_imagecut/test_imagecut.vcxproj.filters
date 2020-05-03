@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="imageOperation.cpp">
+      <Filter>源代码</Filter>
+    </ClCompile>
+    <ClCompile Include="process.cpp">
+      <Filter>源代码</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源代码</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="imageOperation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="process.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{100e32f2-24c7-4392-b00e-f912283b8721}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源代码">
+      <UniqueIdentifier>{b2c89442-bb11-4327-ba7e-a6971c38030f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
